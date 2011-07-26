@@ -1,0 +1,5 @@
+TODO list for Perl module Aware::Mock::PayPal
+
+- IF !-e Config: Gerar arquivo de configuracao inicial com variaveis padrao
+em nenhuma hipótese sobre escrever o arquivo existente.
+

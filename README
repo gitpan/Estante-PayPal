@@ -1,0 +1,25 @@
+NAME
+    Estante::PayPal
+
+SYNOPSIS
+      use Estante::PayPal;
+
+DESCRIPTION
+    This module implements PayPal Adaptive API
+
+USAGE
+BUGS
+    http://git.aware.com.br/estante-paypal/trac.cgi
+
+SUPPORT
+    http://www.aware.com.br
+
+AUTHOR
+    Aware TI.
+
+COPYRIGHT
+    (c) 2011 Aware TI.
+
+SEE ALSO
+    perl(1).
+

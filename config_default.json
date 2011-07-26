@@ -1,0 +1,32 @@
+{
+    "defaults"      : {
+        "adaptive_payment_pay" : {
+            "actionType" : "PAY",
+            "feesPayer" : "EACHRECEIVER",
+            "requestEnvelope" : {
+                "errorLanguage" : "en_US",
+            },
+            "currencyCode" : "USD",
+            "reverseAllParallelPaymentsOnError" : "true",
+        },
+        "adaptive_payment_pay_details" : {
+            "requestEnvelope" : {
+                "errorLanguage" : "en_US",
+            },
+        },
+        "adaptive_account_get_verified_status" : {
+            "requestEnvelope" : {
+                "errorLanguage" : "en_US",
+            },
+        },
+        "adaptive_account_create" : {
+           "notificationURL"         : "http://www.example.com/notify",
+           "preferredLanguageCode"   : "pt_BR",
+           "citizenshipCountryCode"  : "US",
+           "currencyCode"            : "USD",
+           "requestEnvelope" : {
+                "errorLanguage" : "en_US",
+            },
+        },
+    },
+}
